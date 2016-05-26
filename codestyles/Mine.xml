@@ -1,0 +1,14 @@
+<code_scheme name="Mine">
+  <TypeScriptCodeStyleSettings>
+    <option name="SPACE_AFTER_TYPE_COLON" value="true" />
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="IMPORTS_WRAP" value="0" />
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
+  </TypeScriptCodeStyleSettings>
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
+</code_scheme>

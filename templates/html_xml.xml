@@ -1,0 +1,5 @@
+<templateSet group="html/xml">
+  <template name="&lt;link" value="&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;$SELECTION$&quot;&gt;" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+</templateSet>
