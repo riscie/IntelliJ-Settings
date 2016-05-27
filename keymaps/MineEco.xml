@@ -4,9 +4,7 @@
     <keyboard-shortcut first-keystroke="shift alt back_space" />
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
-  <action id="Android.TraceViewSearch">
-    <keyboard-shortcut first-keystroke="alt f3" />
-  </action>
+  <action id="Android.TraceViewSearch" />
   <action id="CheckinProject" />
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl slash" />
@@ -26,9 +24,7 @@
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
-  <action id="Find">
-    <keyboard-shortcut first-keystroke="alt f3" />
-  </action>
+  <action id="Find" />
   <action id="GotoBookmark7" />
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
@@ -38,6 +34,9 @@
   <action id="HideActiveWindow" />
   <action id="NewElementInMenuGroup">
     <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="alt f3" />
   </action>
   <action id="RenameFile">
     <keyboard-shortcut first-keystroke="f2" />
