@@ -4,4 +4,7 @@
     <option name="IMPORTS_WRAP" value="0" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </TypeScriptCodeStyleSettings>
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
 </code_scheme>
