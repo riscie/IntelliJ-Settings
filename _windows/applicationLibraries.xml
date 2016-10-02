@@ -1,5 +1,10 @@
 <application>
   <component name="libraryTable">
+    <library name="Python 2.7.12 (C:\Python27\python.exe) (1) interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="Python 2.7.12 (C:\Python27\python.exe) interpreter library">
       <CLASSES>
         <root url="file://C:/Python27/DLLs" />
